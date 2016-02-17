@@ -40,11 +40,11 @@ Create a Fibonacci sequence generator function. It should work like this:
 
 ```
 var f = fibgen();
-console.log(f);	// 1
-console.log(f);	// 1
-console.log(f);	// 3
-console.log(f);	// 5
-console.log(f);	// 8
+console.log(f());	// 1
+console.log(f());	// 1
+console.log(f());	// 3
+console.log(f());	// 5
+console.log(f());	// 8
 ...
 ```
 
