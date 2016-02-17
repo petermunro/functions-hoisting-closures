@@ -85,3 +85,12 @@ for (var i = 0; i < fruit.length; i++) {
 </body>
 </html>
 ```
+
+## Mountain Trail App
+
+1.	Review the JavaScript content of your mobile app codebase. Analyze it for opportunities to refactor into simpler functions. Perform your refactoring.
+2.	When would closures be appropriate for use in your app?
+
+
+
+
